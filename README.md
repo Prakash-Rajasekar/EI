@@ -45,5 +45,5 @@ Ensure you have Java Development Kit (JDK) installed on your machine. The projec
 
 For any questions or issues, please contact:
 
-- **PrakashRajasekar00@gmail.com**
+- **Prakash Rajasekar**
 - **Email**: [PrakashRajasekar00@gmail.com](mailto:prakashrajasekar00@gmail.com)
