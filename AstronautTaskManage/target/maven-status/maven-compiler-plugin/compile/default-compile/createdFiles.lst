@@ -1,0 +1,5 @@
+com\example\taskmanager\Task.class
+com\example\taskmanager\TaskFactory.class
+com\example\taskmanager\ScheduleManager.class
+com\example\taskmanager\TaskObserver.class
+com\example\taskmanager\TaskManager.class
