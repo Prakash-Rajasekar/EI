@@ -38,7 +38,7 @@ This application is built using Maven and Java and provides a command-line inter
    ```bash
    mvn clean package
 
-   This command compiles the code and packages it into a JAR file.
+This command compiles the code and packages it into a JAR file.
 
 ## Usage
 
