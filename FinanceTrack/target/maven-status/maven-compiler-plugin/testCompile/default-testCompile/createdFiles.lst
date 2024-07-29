@@ -1,0 +1,4 @@
+src\test\java\com\example\taskmanager\ScheduleManagerTest.class
+src\test\java\com\example\taskmanager\TaskFactoryTest.class
+src\test\java\com\example\taskmanager\TaskObserverTest.class
+src\test\java\com\example\taskmanager\TaskTest.class
