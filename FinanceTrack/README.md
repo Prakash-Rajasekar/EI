@@ -1,5 +1,3 @@
-Here's a `README.md` file template for your console-based application. This file provides an overview of the project, instructions for setup and usage, and details on how to build and run the application.
-
 ```markdown
 # FinanceTrack Console Application
 
