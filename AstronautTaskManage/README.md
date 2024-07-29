@@ -36,9 +36,18 @@ The Astronaut Daily Schedule Organizer is a console-based application designed t
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/astronaut-daily-schedule-organizer.git
-2. cd astronaut-daily-schedule-organizer
-3. mvn clean package
-4. java -jar target/task-manager-app-1.0-SNAPSHOT.jar
+
+2. Navigate to the Working dir.
+   ```bash
+   cd astronaut-daily-schedule-organizer
+
+3. Compile the project
+   ```bash
+   mvn clean package
+
+4. Execute the Project
+   ```bash
+   java -jar target/task-manager-app-1.0-SNAPSHOT.jar
 
 ### Error Handling
 - Conflicting Tasks: The application will notify users if a new task conflicts with an existing one.
@@ -53,4 +62,4 @@ The Astronaut Daily Schedule Organizer is a console-based application designed t
 For any queries, please contact:
 
 **Name**: Prakash Rajasekar
-**Email**: prakashrajasekar00@gmail.com
+**Email**: [prakashrajasekar00@gmail.com](mailto:prakashrajasekar00@gmail.com)

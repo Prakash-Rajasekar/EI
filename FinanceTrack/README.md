@@ -1,4 +1,3 @@
-```markdown
 # FinanceTrack Console Application
 
 ## Overview
@@ -30,25 +29,22 @@ This application is built using Maven and Java and provides a command-line inter
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/financetrack.git
-   ```
 
 2. **Navigate to the Project Directory**:
-   ```
+   ```bash
    cd financetrack
-   ```
 
 3. **Build the Project**:
-   ```
+   ```bash
    mvn clean package
-   ```
+
    This command compiles the code and packages it into a JAR file.
 
 ## Usage
 
 1. **Run the Application**:
-   ```
+   ```bash
    java -jar target/financetrack.jar
-   ```
 
 2. **Interact with the Application**:
    - Follow the prompts to enter financial data and perform operations.
